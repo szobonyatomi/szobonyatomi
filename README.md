@@ -14,4 +14,4 @@
 
 [Contact](mailto:szobonyatamas@gmail.com)
 
-[About]()
+[About](/Szobonya Tomi CV_EN.pdf)
